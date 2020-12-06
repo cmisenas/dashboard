@@ -14,5 +14,11 @@
     "@emotion/styled": "^11.0.0",
     "@nivo/calendar": "^0.66.0",
     "framer-motion": "^2.9.5"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "typescript": "^4.1.2"
   }
 }
